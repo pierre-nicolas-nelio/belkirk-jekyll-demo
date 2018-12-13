@@ -24,5 +24,8 @@ fields:
   label: layout
   hidden: true
   default: post
+- type: text
+  config:
+    required: true
 pages:
 - other.md
